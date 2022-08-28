@@ -4,4 +4,4 @@ HowTo repository will contain installation and setups for different application 
 
 ## Applications
 
-1. Xcode : https://github.com/atquil/HowTo/tree/Xcode
+1. Xcode [Mac Only] : https://github.com/atquil/HowTo/tree/Xcode
