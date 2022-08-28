@@ -63,7 +63,7 @@ sudo /Developer/Library/uninstall-devtools --mode=all
 
 ```
 
-1. Remove the Xcode Application caches if it exist
+4. Remove the Xcode Application caches if it exist
 
 `~/Library/Caches/com.apple.dt.Xcode`
 
