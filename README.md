@@ -9,7 +9,9 @@ Apple's integrated development environment for macOS, used to develop software f
 ## Three Methods to install Xcode : 
 ## First Method [Fastest]
 
-- Go to this url : https://developer.apple.com/download/all/ 
+- Go to this url and download the file : https://developer.apple.com/download/all/ 
+- Unzip the file
+- Move the Xcode to Application Folder
 
 ## Second Method
 
