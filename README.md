@@ -29,7 +29,7 @@ xcode-select --install
 
 ![AcceptLicense](resource/XcodeAcceptLicense.png)
 
-## Third Method 
+## Third Method [Slowest]
 
 - Go to the AppStore and Type Xcode 
 - Click on Get and then Install
