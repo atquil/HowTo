@@ -1,32 +1,9 @@
-# HowTo
-HowTo repository will contain installation and setups for different application / programs etc. 
+# HomeBrew 
+It's a package manager, making our life easier for managing installing applications.  
 
-
-## Applications
-
-
-### Mac Only
-
-    1. Xcode : https://github.com/atquil/HowTo/tree/Xcode
-    2. Homebrew (Package manager) :
-    3. Terminal (iTerm2 + oh my zsh + powerlevel10k) : https://github.com/romkatv/powerlevel10k#manual 
-
-
-### Windows Only
-    1. Chocolatey (Package manager) : https://chocolatey.org/install 
-    2. Terminal (PoserShell + Oh My Posh ) : https://docs.microsoft.com/en-us/windows/terminal/tutorials/custom-prompt-setup 
+### It's a Mac specific package manager, but for Windows we have : *** Chocolatey ***
 
 
 
-
-### Mac and Windows
-
-    1. Android Studio : https://developer.android.com/studio 
-    2. Visual Studio Code : https://code.visualstudio.com/ 
-    3. Java : 
-    4. Maven and Gradle :
-    5. Dart : 
-    6. Flutter : 
-    7. MySQL + MySql Workbench : https://www.simplilearn.com/tutorials/mysql-tutorial/mysql-workbench-installation 
-    8. GIT | GitHub :  
-    9. OBS (OpenSource for Recording and Streaming) : https://obsproject.com/ 
+##CheatSheet
+![HomeBrew Cheat Sheet](https://github.com/atquil/HowTo/blob/Homebrew/Homebrew%20CheatSheet.png)
