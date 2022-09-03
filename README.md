@@ -5,5 +5,5 @@ It's a package manager, making our life easier for managing installing applicati
 
 
 
-##CheatSheet
+## CheatSheet
 ![HomeBrew Cheat Sheet](https://github.com/atquil/HowTo/blob/Homebrew/Homebrew%20CheatSheet.png)
