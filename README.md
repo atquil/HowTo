@@ -9,7 +9,10 @@ HowTo repository will contain installation and setups for different application 
 
     1. Xcode : https://github.com/atquil/HowTo/tree/Xcode
     2. Homebrew (Package manager) :
-    3. Terminal (iTerm2 + oh my zsh + powerlevel10k) : https://github.com/romkatv/powerlevel10k#manual 
+    3. Terminal (iTerm2 + oh my zsh + powerlevel10k) : 
+       1. https://github.com/romkatv/powerlevel10k#manual 
+       2. https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0 
+       3. https://gist.github.com/kevin-smets/8568070 
 
 
 ### Windows Only
