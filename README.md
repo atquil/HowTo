@@ -7,13 +7,22 @@
 Apple's integrated development environment for macOS, used to develop software for macOS, iOS, iPadOS, watchOS, and tvOS. 
 
 ## Three Methods to install Xcode : 
-## First Method [Fastest]
 
-- Go to this url and download the file : https://developer.apple.com/download/all/ 
-- Unzip the file
+<br>
+
+## 1. From Apple Developer Download `Fastest`
+
+- Go to this url and download the latest **stable** (not beta) version of XCODE: https://developer.apple.com/download/all/ 
+- After downloading unzip the file by double clicking on it
+![XcodePackage](resource/xcodeDownloaded.png)
+  
 - Move the Xcode to Application Folder
 
-## Second Method
+- Check the version using terminal 
+```
+/usr/bin/xcodebuild -version
+```
+## 2. Through Terminal `Geeky way`
 
 - Go to **terminal** and type this. 
 
@@ -29,12 +38,14 @@ xcode-select --install
 
 ![AcceptLicense](resource/XcodeAcceptLicense.png)
 
-## Third Method [Slowest]
+## 3. Who want to waste time [Slowest]
 
-- Go to the AppStore and Type Xcode 
+- Go to the AppStore and Type Xcode and it will show the latest version available
+![AppStore](resource/xcodeFromAppStore.png) 
 - Click on Get and then Install
 
 
+<br>
 
 # HowTo Uninstall Xcode
 
