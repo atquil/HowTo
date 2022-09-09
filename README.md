@@ -10,6 +10,10 @@ Apple's integrated development environment for macOS, used to develop software f
 
 <br>
 
+[![Install Xcode](resource/xcodeThumbnail.png)](https://www.youtube.com/watch?v=NJYDUshR-58&ab_channel=atquil)
+
+<br>
+
 ## 1. From Apple Developer Download `Fastest`
 
 - Go to this url and download the latest **stable** (not beta) version of XCODE: https://developer.apple.com/download/all/ 
