@@ -38,6 +38,10 @@ xcode-select --install
 
 ![AcceptLicense](resource/XcodeAcceptLicense.png)
 
+- Check the version using terminal 
+```
+/usr/bin/xcodebuild -version
+```
 ## 3. Who want to waste time [Slowest]
 
 - Go to the AppStore and Type Xcode and it will show the latest version available
